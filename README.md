@@ -1,6 +1,8 @@
 ## The Elogroup Login Page: 
 
+https://i.imgur.com/zpePCS2.jpg
 
+My Fully coded Login Page with REACT + NEXTJS AND CHAKRA UI 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
